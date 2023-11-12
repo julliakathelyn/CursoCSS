@@ -1,0 +1,12 @@
+.teste {
+
+    width: 300px;
+    height: 150px;
+    background-color: red
+}
+
+.teste2 {
+    max-width: 800px;
+    height: 250px;
+    background-color: blueviolet;
+}

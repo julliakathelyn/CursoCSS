@@ -1,0 +1,29 @@
+body {
+    background-color: gray;
+}
+
+.center {
+    text-align: center;
+}
+
+.vermelho {
+    color: red;
+}
+.azul {
+    color: blue;
+}
+.font-30 {
+    font-size: 30px;
+}
+.font-50 {
+    font-size: 50px;
+}
+.branco {
+    color:aliceblue
+}
+
+#padraoju {
+    color: rgb(77, 5, 144);
+    text-align: center;
+    font-size: 40px;
+}

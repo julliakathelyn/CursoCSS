@@ -1,0 +1,30 @@
+body {
+    background-color: gray;
+}
+
+h1 {
+    color: darkviolet;
+    border-bottom: 3px solid black;
+    border-top: 6px dotted purple;
+    border-left: 4px dashed black;
+    border-right: 10px groove blue;
+
+}
+
+h2 {
+
+    color: aqua;
+    border: 1px solid black;
+    border-radius: 30px;
+    text-align: center;
+    background: black;
+}
+
+p {
+    color: rgb(255, 255, 255);
+}
+
+.center {
+
+    text-align: center;
+}

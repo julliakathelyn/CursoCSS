@@ -1,0 +1,19 @@
+h1 {
+    color: rgb(205, 0, 0);
+    border: 1px solid black;
+    text-align: center;
+    background: black;
+    margin-top: 50px;
+    margin-bottom: 80px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+
+p {
+    margin: 0px 40px 0px 40px;
+}
+
+.center {
+    text-align: center;
+}

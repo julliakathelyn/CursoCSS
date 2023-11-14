@@ -1,0 +1,85 @@
+a.botao1 {
+
+   border: 3px solid blue;
+   border-radius: 20px;
+   color: blue;
+   background-color: black;
+   padding: 5px;
+   text-decoration: none;
+
+}
+a.botao1:hover {
+
+   border: 3px solid rgb(82, 82, 233);
+   background-color: rgba(0, 0, 0, 0.319);
+   
+
+}
+
+a.botao2 {
+
+   color: rgb(129, 2, 2);
+   text-decoration: none;
+   font-size: 17px;
+   
+}
+
+a.botao2:hover {
+
+   font-size: 25px ;
+   font-weight: bold;
+   
+}
+
+a.botao3 {
+
+   color: blue;
+   text-decoration: none;
+
+}
+
+a.botao3:hover {
+
+   color:red;
+   text-decoration: underline;
+}
+
+a.botao4 {
+
+   color: white;
+   border: 3px solid black;
+   background-color: pink;
+   padding: 5px;
+   text-decoration: none;
+
+}
+
+a.botao4:hover {
+
+   color: white;
+   border: 3px solid black;
+   background-color: pink;
+   padding: 8px;
+   text-decoration: none;
+
+}
+
+a.botao5 {
+   background-color: blueviolet;
+   color: white;
+   border: 2px solid black ;
+   border-radius: 10px;
+   padding: 5px;
+   text-decoration: none;
+}
+
+a.botao6 {
+
+   background-color: cadetblue;
+   color:aliceblue;
+   border: 3px solid black;
+   border-radius: 4px;
+   padding: 5px;
+   text-decoration: none;
+   cursor: none;
+}

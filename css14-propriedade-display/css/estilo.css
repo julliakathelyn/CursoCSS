@@ -1,0 +1,30 @@
+.borda {
+    border: 3px solid black;
+}
+
+.p1 {
+    display: block;
+}
+
+.p1:hover {
+    display: none;
+}
+
+li {
+
+    display: inline-block;
+    width: 30%;
+    height: 70px;
+}
+
+.azul {
+    background-color: blue;
+}
+
+.vermelho {
+    background-color: red;
+}
+
+.roxo {
+    background-color: rgb(69, 0, 115);
+}

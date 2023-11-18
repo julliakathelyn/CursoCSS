@@ -1,0 +1,32 @@
+.exemplo1 {
+
+    background-color:blueviolet;
+    color: rgb(25, 4, 4);
+    height: 150px;
+    overflow: auto ;
+
+}
+
+.exemplo2 {
+
+    background-color:rgb(43, 198, 226);
+    color: rgb(25, 4, 4);
+    height: 150px;
+    overflow: hidden ;
+
+}
+
+.exemplo3 {
+    background-color: red ;
+    color: white;
+    height: 150px;
+    overflow: scroll;
+}
+
+.exemplo4 {
+
+    background-color: yellow;
+    color: black;
+    height: 150px;
+    overflow: visible;
+}

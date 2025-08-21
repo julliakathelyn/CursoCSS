@@ -66,6 +66,7 @@ Cada diretório corresponde a um tópico específico, abordando desde a forma de
 <p align="center">
 <img src="img-css/img-2.png" alt="App Screenshot" width="600"/> 
 </p>
+
 ---
 
 

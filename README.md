@@ -64,7 +64,7 @@ Cada diretório corresponde a um tópico específico, abordando desde a forma de
 - ✨ Pseudo-elementos  
 - 📱 Responsividade (media queries)  
 
-<img src="img-css/img-2.png" alt="App Screenshot" width="800"/> 
+<img src="img-css/img-2.png" alt="App Screenshot" width="600"/> 
 
 ---
 
